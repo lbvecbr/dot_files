@@ -1,0 +1,306 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/udimon/
+	..
+1605025292
+'b
+	/home/udimon/bin/
+	..
+1605025292
+'h
+	/home/udimon/
+	..
+1605025292
+'z
+	/home/udimon/.config/vifm
+	..
+1605025292
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l10,2,14
+r2
+
+# Left window history (oldest to newest):
+d/home/udimon
+	..
+0
+d/home
+	..
+0
+d/
+	mnt
+9
+d/mnt
+	c
+1
+d/mnt/c
+	Users
+16
+d/mnt/c/Users
+	Dimon
+4
+d/mnt/c/Users/Dimon
+	Desktop
+6
+d/mnt/c/Users/Dimon/Desktop
+	meizu память
+11
+d/mnt/c/Users/Dimon/Desktop/meizu память
+	test.py
+20
+d/mnt/c/Users/Dimon/Desktop
+	meizu память
+11
+d/mnt/c/Users/Dimon
+	Desktop
+6
+d/mnt/c/Users
+	Dimon
+4
+d/mnt/c
+	Users
+16
+d/mnt
+	c
+1
+d/
+	home
+4
+d/home
+	udimon
+1
+d/home/udimon
+	.config
+2
+d/home/udimon/.config
+	vifm
+3
+d/home/udimon/.config/vifm
+	colors
+1
+d/home/udimon/.config/vifm/colors
+	..
+0
+d/home/udimon/.config/vifm
+	..
+0
+d/home/udimon/.config
+	..
+0
+d/home/udimon
+	..
+0
+d/home
+	udimon
+1
+d/home/udimon
+	..
+0
+d/home
+	udimon
+1
+d/
+	mnt
+9
+d/mnt
+	c
+1
+d/mnt/c
+	Documents and Settings
+6
+d/mnt/c/Documents and Settings
+	Dimon
+4
+d/mnt/c/Documents and Settings/Dimon
+	Desktop
+7
+d/mnt/c/Documents and Settings/Dimon/Desktop
+	DocsVim
+3
+d/mnt/c/Documents and Settings/Dimon/Desktop/DocsVim
+	..
+0
+d/mnt/c/Documents and Settings/Dimon/Desktop
+	..
+0
+d/mnt/c/Documents and Settings/Dimon
+	Desktop
+46
+d/mnt/c/Documents and Settings
+	Dimon
+7
+d/mnt/c
+	Documents and Settings
+1
+d/mnt
+	wsl
+3
+d/mnt/wsl
+	..
+0
+d/mnt
+	..
+0
+d/
+	home
+12
+d/home
+	udimon
+1
+d/home/udimon
+	Documents
+4
+d/home/udimon/Documents
+	..
+0
+d/home/udimon
+	Documents
+4
+d/home/udimon/Documents
+	..
+0
+d/home/udimon
+	Documents
+4
+d/home
+	udimon
+1
+d/home/udimon
+	Documents
+4
+d/home
+	udimon
+1
+d/
+	home
+3
+d/home
+	udimon
+1
+d/home/udimon
+	..
+0
+d/home
+	udimon
+1
+d
+
+# Right window history (oldest to newest):
+D/home/udimon
+	..
+0
+D/home
+	..
+0
+D/
+	home
+4
+D/home
+	udimon
+1
+D/home/udimon
+	test.py
+1
+D/home
+	udimon
+1
+D/home/udimon
+	test.py
+1
+D/home
+	udimon
+1
+D/
+	mnt
+9
+D/mnt
+	wsl
+3
+D/mnt/wsl
+	..
+0
+D/mnt
+	..
+0
+D/
+	mnt
+9
+D/home/udimon
+	test.py
+11
+D
+
+# Command line history (oldest to newest):
+:touch test.py
+:cw
+:ren
+:cd~
+:reg
+:istrash
+:lstrash
+:trashes
+:setall
+:set all
+:set nodotfiles
+:set dotfiles
+:sort
+:set sort+=dir
+:set nolsview
+:set lsoptions=transposed
+:set
+:set lsview
+:q
+:colorscheme Default
+:help
+
+# Search history (oldest to newest):
+/tes
+
+# Prompt history (oldest to newest):
+ptest
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/udimon/.local/share/vifm/Trash/000_17-05-24-18-26-49-749_photo_1.jpg
+""/home/udimon/.local/share/vifm/Trash/000_P00905-103256.jpg
+""/home/udimon/.local/share/vifm/Trash/000_P00905-103320.jpg
+""/home/udimon/.local/share/vifm/Trash/000_P00905-103455.jpg
+""/home/udimon/.local/share/vifm/Trash/000_P00905-103705(2)(2).jpg
+""/home/udimon/.local/share/vifm/Trash/000_image-0-02-05-186afd37e9a378008c1fbd54d3399f2dc1deb9c53403e6448370bb0a61a92ee0-V_1.jpg
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/udimon/.local/share/vifm/Trash/000_17-05-24-18-26-49-749_photo_1.jpg
+	/home/udimon/17-05-24-18-26-49-749_photo_1.jpg
+t/home/udimon/.local/share/vifm/Trash/000_P00905-103256.jpg
+	/home/udimon/P00905-103256.jpg
+t/home/udimon/.local/share/vifm/Trash/000_P00905-103320.jpg
+	/home/udimon/P00905-103320.jpg
+t/home/udimon/.local/share/vifm/Trash/000_P00905-103455.jpg
+	/home/udimon/P00905-103455.jpg
+t/home/udimon/.local/share/vifm/Trash/000_P00905-103705(2)(2).jpg
+	/home/udimon/P00905-103705(2)(2).jpg
+t/home/udimon/.local/share/vifm/Trash/000_image-0-02-05-186afd37e9a378008c1fbd54d3399f2dc1deb9c53403e6448370bb0a61a92ee0-V_1.jpg
+	/home/udimon/image-0-02-05-186afd37e9a378008c1fbd54d3399f2dc1deb9c53403e6448370bb0a61a92ee0-V_1.jpg
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
