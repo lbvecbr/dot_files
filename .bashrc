@@ -115,8 +115,16 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-alias ami="ssh -i .ssh/For_udimon.pem ubuntu@ec2-18-195-51-170.eu-central-1.compute.amazonaws.com"
-alias s="sudo"
 
-#settings for X410
-export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+#====================================================================
+#           My Settings                                                                        
+#====================================================================                          
+set -o vi                                                                                      
+bind ",,":vi-movement-mode                                                                                                                                                                    
+export EDITOR="/usr/bin/vim"                                                                   
+export PATH="/mnt/c/Program\ Files\ \(x86\)/Notepad++:$PATH"                                   
+#settings for X410                                                                             
+export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0                                                                                                        
+alias ami="ssh -i .ssh/For_udimon.pem ubuntu@ec2-18-195-51-170.eu-central-1.compute.amazonaws.com"                                                                                            
+alias s="sudo" 
