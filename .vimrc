@@ -2,6 +2,16 @@ set nocompatible
 filetype off
 
 "=====================================================
+"Vim-Plug settings
+"=====================================================
+
+call plug#begin('~/.vim/plugged')
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+call plug#end()
+
+
+"=====================================================
 "Vundle settings
 "=====================================================
 " set the runtime path to include Vundle and initialize
